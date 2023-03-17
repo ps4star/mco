@@ -1,0 +1,6 @@
+package mc
+
+StatsCounter :: struct
+{
+	
+}

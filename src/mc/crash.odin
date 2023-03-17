@@ -1,0 +1,6 @@
+package mc
+
+CrashReport :: struct
+{
+	
+}

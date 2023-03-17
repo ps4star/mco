@@ -1,0 +1,10 @@
+# Ignore the executable
+out/bin/*.bin
+out/bin/*.exe
+out/bin/*.lib
+out/bin/mc_odin
+out/bin/mco
+
+# Ignore JAR files recursively, but keep the dirnames intact
+out/bin/jar_root/*
+out/bin/app_root/*

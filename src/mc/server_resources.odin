@@ -1,0 +1,6 @@
+package mc
+
+ReloadableServerResources :: struct
+{
+	
+}
